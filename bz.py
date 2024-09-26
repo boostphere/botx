@@ -19,8 +19,7 @@ import requests
 import threading
 import time
 
-__AUTHOR__ = 'Pham Dinh Quoc '
-__CONTACT__ = 'fb.com/PhDinhQuoc '
+
 def jovan(): 
     print("""\033[1;31m
        ██╗███╗   ███╗██████╗  █████╗  ██████╗████████╗
